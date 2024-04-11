@@ -1,0 +1,4 @@
+[project]
+name = "better-datapack"
+version = "0.0.1"
+readme = "../README.md"
