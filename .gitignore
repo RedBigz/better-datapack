@@ -1,2 +1,3 @@
 dist
 bdp/__pycache__
+.release
